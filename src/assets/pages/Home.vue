@@ -1,11 +1,11 @@
 <script setup >
-import Cards from '../../components/Cards.vue'
+import Cards from '../../components/Cards.vue';
 const handleSearch=() => {
 
 }
 </script>
 <template>
-          <div class="flex md:space-x-5 h-screen px-4 md:px-24 py-10 md:py-36">
+   <div class="flex md:space-x-5 h-screen px-4 md:px-24 py-10 md:py-36">
     <div class="hidden md:block flex-1">
       <img src="/src/assets/undraw_medicine_hqqg.svg" />
     </div>
